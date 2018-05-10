@@ -16,9 +16,13 @@ This image accurately represents one downfall of Pepsi that many put to the back
 
 ### Tips
 1.
+
 2.
+
 3.
+
 4.
+
 5.
 
 ## Jordan McNairy
@@ -28,9 +32,13 @@ For my picture, I chose a screen grab from the movie Princess Mononoke.  The pic
 
 ### Tips
 1.
+
 2.
+
 3.
+
 4.
+
 5.
 
 ## Stephen Swisher
@@ -56,9 +64,13 @@ In conclusion, ACLU has an extremely effective approach to their visual rhetoric
 
 ### Tips
 1.
+
 2.
+
 3.
+
 4.
+
 5.
 
 ## Cyndi Vidal
@@ -76,8 +88,12 @@ It is definitely a very powerful visual as it makes one think about the purpose 
 
 ### Tips
 1.
+
 2.
+
 3.
+
 4.
+
 5.
 
