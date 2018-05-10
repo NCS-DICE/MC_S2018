@@ -1,11 +1,7 @@
 # Visual Rhetoric
 ## What is Visual Rhetoric?
-
-
 ## Allah Jackson
-
 ### Analysis
-
 ![new pepsi logo spoof](img/AllahVisual1.jpg)
 
 Individuals in society are constantly flooded with visual stimulants; the purpose of visual rhetoric is to place a persuasive meaning into the visuals people see. The image above has an immediate intertextual relationship with Pepsi’s trademark. This image is directly attacking Pepsi and tainting the original intentions of the company. It is intended to be a symbol of a certain level of quality for a good in combination with representation of a well-known tasty reward on a hot day as so many commercials display. The image is vastly known and marketed so that anyone could simply see the shape and colors then correlated it with the product. The study of semiotics can show how society creates a meaning or emotion when seeing certain images. People can do this so much so that the same drink may be poured into a generic bottle and they may think it not as tasty as the one correlated with the symbol. Expectations are built around images and an entire society may get one similar meaning to represent the image. 
@@ -26,7 +22,6 @@ This image accurately represents one downfall of Pepsi that many put to the back
 5.
 
 ## Jordan McNairy
-
 ### Analysis
 
 For my picture, I chose a screen grab from the movie Princess Mononoke.  The picture shows a wolf with the subtitle saying, "Typical. Selfish. You think like a human." The image shows strong linguistic elements that are pointed to a denoted meaning. The wolf is positioned covering a large portion of the center of the clip. The face of the wolf combined with the eerie time of day gives the viewer a sense of tension that could be leading to a battle. This photo was a great freeze frame into the ideas which give princess Mononoke its significance. Three keywords that the wolf gives in the line are "typical selfish human", as a member of the animal kingdom he is implying that his species does much less wrong to the world than humans. In saying it the wolf gives the reader a sense that the wolf is talking to another being and planning on doing something to stop his enemy. The wolf has red determined eyes and a maniacal smile on his face.   The animation with the addition of subtitles gives the viewer the idea that the screen grab is from an anime film. Animes also have a reputation for being a very symbolic and deep compared to other types of animated films. I have seen this photo on several different social media sites such as Twitter, Instagram, and Tumblr and people seem to really connect with the symbolic meaning of this photo to environmental efforts. In terms of amine references, this movie, in general, has proved to be a piece of work that shows a metaphor about how humans tend to destroy the earth instead of taking care of it, thus becoming a cultural piece for the environmentalists. The idea of a wolf sitting on a rock with his or her mouth partially open makes for a simple visual composition. The power of the visual comes through the subtitles use of simple language and the personification of the wolf. Oftenly in our culture, we hear of people judging or criticizing other people, but I think this movie does a great job of giving the perspective of another animal being disappointed by humans for not helping protect the earth. Personally, I don't think the targeted view of this image is environmentalist, I think it is the population as a whole to take a second and think about the selfish act that we do and how they accept others in the long run. 
@@ -39,7 +34,6 @@ For my picture, I chose a screen grab from the movie Princess Mononoke.  The pic
 5.
 
 ## Stephen Swisher
-
 ### Analysis
 
 The piece of visual rhetoric I chose to use is the ACLU of Washington website. I chose this site because I am a member and I wanted to analyze the rhetorical and multimodal elements of the home page. 
@@ -60,16 +54,15 @@ Scrolling down the landing page we see an interactive visual display of images a
 
 In conclusion, ACLU has an extremely effective approach to their visual rhetoric. The site’s affordances are the textual information and multimodal elements which are modern, intuitive and effectively appeal to the audiences with whom they are concerned with representing—those who have a higher risk of being subjugated by policy and enforcement. While the site does a great job of this, its primary constraint is the digital access that is required of audiences to view and consume this media. Unfortunately, many of the groups they are appealing to lack equitable access to the internet and the digital platforms therein. In spite of this, the ACLU does a fantastic job of getting out into public spaces and bringing their message to the street. 
 
- ### Tips
- 1.
- 2.
- 3.
- 4.
- 5.
+### Tips
+1.
+2.
+3.
+4.
+5.
 
- ## Cyndi Vidal
-
- ### Analysis
+## Cyndi Vidal
+### Analysis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/litXW91UauE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
